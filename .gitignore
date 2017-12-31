@@ -100,5 +100,9 @@ ENV/
 # mypy
 .mypy_cache/
 
-#database
+#dabatase
 db.sqlite3
+
+#init file
+__init__.py
+
